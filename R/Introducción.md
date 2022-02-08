@@ -1,2 +1,7 @@
 Se hizo branch-1
-Queda repasar como esta el orgin y remote
+
+git remoteQueda repasar como esta el orgin y remote.
+
+>git push origin <branch-name>
+
+
